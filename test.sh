@@ -1,0 +1,1 @@
+npx http-server --ssl --cert=ssl/server_trusted.pem --key=ssl/serverkey.pem
